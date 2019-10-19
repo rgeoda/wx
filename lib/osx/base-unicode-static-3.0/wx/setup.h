@@ -779,8 +779,7 @@
 /*
  * Define if your compiler has <type_traits>
  */
-/*#define HAVE_TYPE_TRAITS 1*/
-#undef HAVE_TYPE_TRAITS
+#define HAVE_TYPE_TRAITS 1
 
 /*
  * Define if the compiler supports simple visibility declarations.
